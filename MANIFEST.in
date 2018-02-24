@@ -1,0 +1,3 @@
+recursive-include ZFCheckCode *.png
+recursive-include ZFCheckCode *.txt
+recursive-include ZFCheckCode *.model
